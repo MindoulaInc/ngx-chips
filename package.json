@@ -10,7 +10,8 @@
     "start": "npm run server",
     "test": "ng test modules --browsers=ChromeHeadless --watch=false",
     "codecov": "ng test modules --code-coverage --browsers=ChromeHeadless --watch=false",
-    "ng": "ng"
+    "ng": "ng",
+    "prepare": "npm run build"
   },
   "author": {
     "name": "Giancarlo Buomprisco",
