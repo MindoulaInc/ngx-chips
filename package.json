@@ -14,8 +14,8 @@
     "prepare": "npm run build"
   },
   "author": {
-    "name": "Giancarlo Buomprisco",
-    "email": "giancarlopsk@gmail.com"
+    "name": "Mehrad Meraji",
+    "email": "mehrad.meraji@gmail.com"
   },
   "contributors": [],
   "license": "MIT",
@@ -54,6 +54,21 @@
     "ng2-material-dropdown": ">=1.0.0"
   },
   "peerDependencies": {},
+  "keywords": [
+    "angular tag input",
+    "tag input component",
+    "material tag input",
+    "angular chips component",
+    "material chips"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MindoulaInc/ngx-chips"
+  },
+  "bugs": {
+    "url": "https://github.com/MindoulaInc/ngx-chips/issues"
+  },
+  "homepage": "https://github.com/MindoulaInc/ngx-chips",
   "bit": {
     "env": {
       "compiler": "bit.envs/compilers/angular@0.2.0"
