@@ -1,11 +1,11 @@
 {
-  "name": "ngx-chips",
+  "name": "@_mehrad/ngx-chips",
   "version": "16.0.0",
   "description": "Tag Input component for Angular",
   "scripts": {
     "release": "npm run build && npm publish dist",
     "postrelease": "rm -rf dist",
-    "build": "ng-packagr -p ./ng-packager.json && mkdirp ./dist/dist && ncp ./modules/core/styles ./dist/core/styles",
+    "build": "ng-packagr -p ./ng-packager.json && mkdirp ./dist && ncp ./modules/core/styles ./dist/core/styles",
     "server": "ng serve --port 3010",
     "start": "npm run server",
     "test": "ng test modules --browsers=ChromeHeadless --watch=false",
