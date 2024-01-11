@@ -54,21 +54,6 @@
     "ng2-material-dropdown": ">=1.0.0"
   },
   "peerDependencies": {},
-  "keywords": [
-    "angular tag input",
-    "tag input component",
-    "material tag input",
-    "angular chips component",
-    "material chips"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Gbuomprisco/ngx-chips"
-  },
-  "bugs": {
-    "url": "https://github.com/Gbuomprisco/ngx-chips/issues"
-  },
-  "homepage": "https://github.com/Gbuomprisco/ngx-chips",
   "bit": {
     "env": {
       "compiler": "bit.envs/compilers/angular@0.2.0"
